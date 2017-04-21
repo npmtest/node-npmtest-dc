@@ -1,349 +1,349 @@
 <svg height="5534" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5534" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 11:42:03 +0000 31691737 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 11:42:03 +0000     3385 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 11:42:03 +0000     3390 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 11:42:03 +0000    22413 bytes  Changelog.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 11:42:03 +0000    17747 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 11:42:03 +0000    10835 bytes  LICENSE</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 11:42:03 +0000      751 bytes  LICENSE_BANNER</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 11:42:03 +0000     4389 bytes  README.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 11:42:03 +0000     1591 bytes  _SpecRunner.html</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 11:42:03 +0000      339 bytes  bower.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 11:42:03 +0000     1102 bytes  class-hierarchy.dot</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 11:42:03 +0000      537 bytes  component.json</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 11:42:03 +0000     4109 bytes  dc.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 11:42:03 +0000   362282 bytes  dc.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 11:42:03 +0000   984728 bytes  dc.js.map</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 11:42:03 +0000     3282 bytes  dc.min.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 11:42:03 +0000    85812 bytes  dc.min.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 11:42:03 +0000   120103 bytes  dc.min.js.map</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 11:42:03 +0000     6281 bytes  docs/coverage.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 11:42:03 +0000      282 bytes  docs/welcome.base.md</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 11:42:03 +0000     1432 bytes  grunt/format-file-list.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 11:42:03 +0000      123 bytes  index.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 11:42:03 +0000      760 bytes  jsdoc.conf.json</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 11:42:03 +0000     1967 bytes  package.json</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 11:42:03 +0000      177 bytes  regression/inject-serializer.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 11:42:03 +0000   251384 bytes  regression/rendered-stock-fixture.html</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 11:42:03 +0000     4725 bytes  regression/stock-regression-test.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 11:42:03 +0000      932 bytes  scripts/check_merge_conflict.py</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 11:42:03 +0000      195 bytes  scripts/pre-commit.sh</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 11:42:03 +0000    53013 bytes  spec/bar-chart-spec.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 11:42:03 +0000    23801 bytes  spec/base-mixin-spec.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 11:42:03 +0000   102721 bytes  spec/biggish-data-spec.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 11:42:03 +0000     8003 bytes  spec/box-plot-spec.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 11:42:03 +0000    26998 bytes  spec/bubble-chart-spec.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 11:42:03 +0000     4466 bytes  spec/bubble-overlay-spec.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 11:42:03 +0000     3211 bytes  spec/color-spec.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 11:42:03 +0000    29859 bytes  spec/composite-chart-spec.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 11:42:03 +0000    38454 bytes  spec/coordinate-grid-chart-spec.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 11:42:03 +0000    11557 bytes  spec/core-spec.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 11:42:03 +0000     4854 bytes  spec/data-addition-spec.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 11:42:03 +0000     6824 bytes  spec/data-count-spec.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 11:42:03 +0000     4486 bytes  spec/data-grid-spec.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 11:42:03 +0000     9661 bytes  spec/data-table-spec.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 11:42:03 +0000     1226 bytes  spec/event-spec.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-21 11:42:03 +0000     3129 bytes  spec/filter-dates-spec.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-21 11:42:03 +0000     5361 bytes  spec/filters-spec.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-21 11:42:03 +0000    14421 bytes  spec/geo-choropleth-chart-spec.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-21 11:42:03 +0000    23605 bytes  spec/heatmap-spec.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-21 11:42:03 +0000     6945 bytes  spec/helpers/custom_matchers.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-21 11:42:03 +0000    13098 bytes  spec/helpers/fixtures.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-21 11:42:03 +0000  6344143 bytes  spec/helpers/geoFixtures.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-21 11:42:03 +0000      969 bytes  spec/helpers/load-jsreporter.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-21 11:42:03 +0000      972 bytes  spec/helpers/polyfills.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-21 11:42:03 +0000     1723 bytes  spec/helpers/spec-helper.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-21 11:42:03 +0000    12258 bytes  spec/legend-spec.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-21 11:42:03 +0000    34959 bytes  spec/line-chart-spec.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-21 11:42:03 +0000     2745 bytes  spec/logger-spec.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-21 11:42:03 +0000     7402 bytes  spec/number-display-spec.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-21 11:42:03 +0000    30416 bytes  spec/pie-chart-spec.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-21 11:42:03 +0000    16886 bytes  spec/row-chart-spec.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-21 11:42:03 +0000    16244 bytes  spec/scatter-plot-spec.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-21 11:42:03 +0000     4704 bytes  spec/series-chart-spec.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-21 11:42:03 +0000     5455 bytes  spec/utils-spec.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-21 11:42:03 +0000       60 bytes  src/banner.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-21 11:42:03 +0000    12621 bytes  src/bar-chart.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-21 11:42:03 +0000    55771 bytes  src/base-mixin.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-21 11:42:03 +0000     8771 bytes  src/box-plot.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-21 11:42:03 +0000     5918 bytes  src/bubble-chart.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-21 11:42:03 +0000     7071 bytes  src/bubble-mixin.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-21 11:42:03 +0000     6829 bytes  src/bubble-overlay.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-21 11:42:03 +0000     6380 bytes  src/cap-mixin.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-21 11:42:03 +0000     5953 bytes  src/color-mixin.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-21 11:42:03 +0000    18025 bytes  src/composite-chart.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-21 11:42:03 +0000    45830 bytes  src/coordinate-grid-mixin.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-21 11:42:03 +0000    14141 bytes  src/core.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-21 11:42:03 +0000    12327 bytes  src/d3.box.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-21 11:42:03 +0000     4102 bytes  src/data-count.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-21 11:42:03 +0000     8002 bytes  src/data-grid.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-21 11:42:03 +0000    15333 bytes  src/data-table.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-21 11:42:03 +0000      922 bytes  src/errors.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-21 11:42:03 +0000     1134 bytes  src/events.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-21 11:42:03 +0000     4378 bytes  src/filters.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-21 11:42:03 +0000     1211 bytes  src/footer.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-21 11:42:03 +0000    10058 bytes  src/geo-choropleth-chart.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-21 11:42:03 +0000    12507 bytes  src/heatmap.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-21 11:42:03 +0000     8362 bytes  src/legend.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-21 11:42:03 +0000    18416 bytes  src/line-chart.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-21 11:42:03 +0000      820 bytes  src/logger.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-21 11:42:03 +0000     1396 bytes  src/margin-mixin.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-21 11:42:03 +0000     5276 bytes  src/number-display.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-21 11:42:03 +0000    18989 bytes  src/pie-chart.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-21 11:42:03 +0000    12968 bytes  src/row-chart.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-21 11:42:03 +0000    13827 bytes  src/scatter-plot.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-21 11:42:03 +0000     6761 bytes  src/series-chart.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-21 11:42:03 +0000     9911 bytes  src/stack-mixin.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-21 11:42:03 +0000     7452 bytes  src/utils.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-21 11:42:03 +0000     5628 bytes  style/dc.scss</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-21 11:42:03 +0000   104347 bytes  web/2.0/crime/canada_map.svg</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-21 11:42:03 +0000    87521 bytes  web/2.0/crime/crime.csv</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-21 11:42:03 +0000     1894 bytes  web/2.0/crime/filter_stats.rb</tspan>
-<tspan x="10" y="1626">100.  2017-04-21 11:42:03 +0000   108569 bytes  web/2.0/crime/index.html</tspan>
-<tspan x="10" y="1642">101.  2017-04-21 11:42:03 +0000   118128 bytes  web/2.0/css/bootstrap.css</tspan>
-<tspan x="10" y="1658">102.  2017-04-21 11:42:03 +0000    98165 bytes  web/2.0/css/bootstrap.min.css</tspan>
-<tspan x="10" y="1674">103.  2017-04-21 11:42:03 +0000    46743 bytes  web/2.0/css/colorbrewer.css</tspan>
-<tspan x="10" y="1690">104.  2017-04-21 11:42:03 +0000     4109 bytes  web/2.0/css/dc.css</tspan>
-<tspan x="10" y="1706">105.  2017-04-21 11:42:03 +0000     3282 bytes  web/2.0/css/dc.min.css</tspan>
-<tspan x="10" y="1722">106.  2017-04-21 11:42:03 +0000     4907 bytes  web/2.0/dc.logo.png</tspan>
-<tspan x="10" y="1738">107.  2017-04-21 11:42:03 +0000     4698 bytes  web/2.0/dc.logo.svg</tspan>
-<tspan x="10" y="1754">108.  2017-04-21 11:42:03 +0000    47712 bytes  web/2.0/docs/api-1.5.0.md</tspan>
-<tspan x="10" y="1770">109.  2017-04-21 11:42:03 +0000    50626 bytes  web/2.0/docs/api-1.6.0.md</tspan>
-<tspan x="10" y="1786">110.  2017-04-21 11:42:03 +0000    50770 bytes  web/2.0/docs/api-1.7.0.md</tspan>
-<tspan x="10" y="1802">111.  2017-04-21 11:42:03 +0000   251896 bytes  web/2.0/docs/api-2.0.0.md</tspan>
-<tspan x="10" y="1818">112.  2017-04-21 11:42:03 +0000   251896 bytes  web/2.0/docs/api-latest.md</tspan>
-<tspan x="10" y="1834">113.  2017-04-21 11:42:03 +0000     9790 bytes  web/2.0/docs/docco.css</tspan>
-<tspan x="10" y="1850">114.  2017-04-21 11:42:03 +0000   104319 bytes  web/2.0/docs/stock.html</tspan>
-<tspan x="10" y="1866">115.  2017-04-21 11:42:03 +0000       43 bytes  web/2.0/ep/blank.gif</tspan>
-<tspan x="10" y="1882">116.  2017-04-21 11:42:03 +0000     6634 bytes  web/2.0/ep/index.html</tspan>
-<tspan x="10" y="1898">117.  2017-04-21 11:42:03 +0000     2542 bytes  web/2.0/ep/list.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-21 11:42:03 +0000    55687 bytes  web/2.0/ep/mep.csv</tspan>
-<tspan x="10" y="1930">119.  2017-04-21 11:42:03 +0000     4121 bytes  web/2.0/examples/adjustable-threshold.html</tspan>
-<tspan x="10" y="1946">120.  2017-04-21 11:42:03 +0000     8651 bytes  web/2.0/examples/align-axes.html</tspan>
-<tspan x="10" y="1962">121.  2017-04-21 11:42:03 +0000     2097 bytes  web/2.0/examples/area.html</tspan>
-<tspan x="10" y="1978">122.  2017-04-21 11:42:03 +0000     2811 bytes  web/2.0/examples/bar-extra-line.html</tspan>
-<tspan x="10" y="1994">123.  2017-04-21 11:42:03 +0000     1754 bytes  web/2.0/examples/bar-single-select.html</tspan>
-<tspan x="10" y="2010">124.  2017-04-21 11:42:03 +0000     1391 bytes  web/2.0/examples/bar.html</tspan>
-<tspan x="10" y="2026">125.  2017-04-21 11:42:03 +0000     2322 bytes  web/2.0/examples/box-plot-time.html</tspan>
-<tspan x="10" y="2042">126.  2017-04-21 11:42:03 +0000     1891 bytes  web/2.0/examples/box-plot.html</tspan>
-<tspan x="10" y="2058">127.  2017-04-21 11:42:03 +0000     5657 bytes  web/2.0/examples/complex-reduce.html</tspan>
-<tspan x="10" y="2074">128.  2017-04-21 11:42:03 +0000     1967 bytes  web/2.0/examples/composite.html</tspan>
-<tspan x="10" y="2090">129.  2017-04-21 11:42:03 +0000     5025 bytes  web/2.0/examples/download-table.html</tspan>
-<tspan x="10" y="2106">130.  2017-04-21 11:42:03 +0000     3124 bytes  web/2.0/examples/filtering-removing.html</tspan>
-<tspan x="10" y="2122">131.  2017-04-21 11:42:03 +0000     3859 bytes  web/2.0/examples/filtering.html</tspan>
-<tspan x="10" y="2138">132.  2017-04-21 11:42:03 +0000      289 bytes  web/2.0/examples/fruits.json</tspan>
-<tspan x="10" y="2154">133.  2017-04-21 11:42:03 +0000      821 bytes  web/2.0/examples/header.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-21 11:42:03 +0000     1638 bytes  web/2.0/examples/heat.html</tspan>
-<tspan x="10" y="2186">135.  2017-04-21 11:42:03 +0000     5043 bytes  web/2.0/examples/heatmap-filtering.html</tspan>
-<tspan x="10" y="2202">136.  2017-04-21 11:42:03 +0000     2761 bytes  web/2.0/examples/index.html</tspan>
-<tspan x="10" y="2218">137.  2017-04-21 11:42:03 +0000      717 bytes  web/2.0/examples/intervals.csv</tspan>
-<tspan x="10" y="2234">138.  2017-04-21 11:42:03 +0000     3716 bytes  web/2.0/examples/iris.csv</tspan>
-<tspan x="10" y="2250">139.  2017-04-21 11:42:03 +0000     1342 bytes  web/2.0/examples/line.html</tspan>
-<tspan x="10" y="2266">140.  2017-04-21 11:42:03 +0000    11310 bytes  web/2.0/examples/lysenko-interval-tree.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-21 11:42:03 +0000   347214 bytes  web/2.0/examples/monthly-move.csv</tspan>
-<tspan x="10" y="2298">142.  2017-04-21 11:42:03 +0000      874 bytes  web/2.0/examples/morley.csv</tspan>
-<tspan x="10" y="2314">143.  2017-04-21 11:42:03 +0000      703 bytes  web/2.0/examples/morley2.csv</tspan>
-<tspan x="10" y="2330">144.  2017-04-21 11:42:03 +0000     1047 bytes  web/2.0/examples/morley3.csv</tspan>
-<tspan x="10" y="2346">145.  2017-04-21 11:42:03 +0000     3831 bytes  web/2.0/examples/multi-focus.html</tspan>
-<tspan x="10" y="2362">146.  2017-04-21 11:42:03 +0000     1970 bytes  web/2.0/examples/multi-scatter.html</tspan>
-<tspan x="10" y="2378">147.  2017-04-21 11:42:03 +0000     2775 bytes  web/2.0/examples/number.html</tspan>
-<tspan x="10" y="2394">148.  2017-04-21 11:42:03 +0000     1359 bytes  web/2.0/examples/ordinal-bar.html</tspan>
-<tspan x="10" y="2410">149.  2017-04-21 11:42:03 +0000     1303 bytes  web/2.0/examples/ordinal-line.html</tspan>
-<tspan x="10" y="2426">150.  2017-04-21 11:42:03 +0000     1828 bytes  web/2.0/examples/pie-external-labels.html</tspan>
-<tspan x="10" y="2442">151.  2017-04-21 11:42:03 +0000     1454 bytes  web/2.0/examples/pie.html</tspan>
-<tspan x="10" y="2458">152.  2017-04-21 11:42:03 +0000     3820 bytes  web/2.0/examples/range-series.html</tspan>
-<tspan x="10" y="2474">153.  2017-04-21 11:42:03 +0000     3649 bytes  web/2.0/examples/replacing-data.html</tspan>
-<tspan x="10" y="2490">154.  2017-04-21 11:42:03 +0000     3997 bytes  web/2.0/examples/right-axis.html</tspan>
-<tspan x="10" y="2506">155.  2017-04-21 11:42:03 +0000     1192 bytes  web/2.0/examples/row.html</tspan>
-<tspan x="10" y="2522">156.  2017-04-21 11:42:03 +0000     1793 bytes  web/2.0/examples/scatter-brushing.html</tspan>
-<tspan x="10" y="2538">157.  2017-04-21 11:42:03 +0000     1993 bytes  web/2.0/examples/scatter-series.html</tspan>
-<tspan x="10" y="2554">158.  2017-04-21 11:42:03 +0000     1280 bytes  web/2.0/examples/scatter.html</tspan>
-<tspan x="10" y="2570">159.  2017-04-21 11:42:03 +0000     2200 bytes  web/2.0/examples/series.html</tspan>
-<tspan x="10" y="2586">160.  2017-04-21 11:42:03 +0000     2472 bytes  web/2.0/examples/sparkline.html</tspan>
-<tspan x="10" y="2602">161.  2017-04-21 11:42:03 +0000     7803 bytes  web/2.0/examples/splom.html</tspan>
-<tspan x="10" y="2618">162.  2017-04-21 11:42:03 +0000     2429 bytes  web/2.0/examples/stacked-bar.html</tspan>
-<tspan x="10" y="2634">163.  2017-04-21 11:42:03 +0000     6624 bytes  web/2.0/examples/switching-time-intervals.html</tspan>
-<tspan x="10" y="2650">164.  2017-04-21 11:42:03 +0000     2591 bytes  web/2.0/examples/table-on-aggregated-data.html</tspan>
-<tspan x="10" y="2666">165.  2017-04-21 11:42:03 +0000     2250 bytes  web/2.0/examples/table-pagination.html</tspan>
-<tspan x="10" y="2682">166.  2017-04-21 11:42:03 +0000     5046 bytes  web/2.0/examples/time-intervals.html</tspan>
-<tspan x="10" y="2698">167.  2017-04-21 11:42:03 +0000     4572 bytes  web/2.0/geo/us-counties.json</tspan>
-<tspan x="10" y="2714">168.  2017-04-21 11:42:03 +0000    87734 bytes  web/2.0/geo/us-states.json</tspan>
-<tspan x="10" y="2730">169.  2017-04-21 11:42:03 +0000     1451 bytes  web/2.0/highlighter/shAutoloader.js</tspan>
-<tspan x="10" y="2746">170.  2017-04-21 11:42:03 +0000     1649 bytes  web/2.0/highlighter/shBrushJScript.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-21 11:42:03 +0000     1998 bytes  web/2.0/highlighter/shBrushXml.js</tspan>
-<tspan x="10" y="2778">172.  2017-04-21 11:42:03 +0000     6204 bytes  web/2.0/highlighter/shCore.css</tspan>
-<tspan x="10" y="2794">173.  2017-04-21 11:42:03 +0000    16175 bytes  web/2.0/highlighter/shCore.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-21 11:42:03 +0000     2877 bytes  web/2.0/highlighter/shThemeDefault.css</tspan>
-<tspan x="10" y="2826">175.  2017-04-21 11:42:03 +0000    18463 bytes  web/2.0/img/class-hierarchy.svg</tspan>
-<tspan x="10" y="2842">176.  2017-04-21 11:42:03 +0000     8777 bytes  web/2.0/img/glyphicons-halflings-white.png</tspan>
-<tspan x="10" y="2858">177.  2017-04-21 11:42:03 +0000    12799 bytes  web/2.0/img/glyphicons-halflings.png</tspan>
-<tspan x="10" y="2874">178.  2017-04-21 11:42:03 +0000     8031 bytes  web/2.0/index.html</tspan>
-<tspan x="10" y="2890">179.  2017-04-21 11:42:03 +0000     5965 bytes  web/2.0/js/FileSaver.js</tspan>
-<tspan x="10" y="2906">180.  2017-04-21 11:42:03 +0000    18274 bytes  web/2.0/js/colorbrewer.js</tspan>
-<tspan x="10" y="2922">181.  2017-04-21 11:42:03 +0000    44384 bytes  web/2.0/js/crossfilter.js</tspan>
-<tspan x="10" y="2938">182.  2017-04-21 11:42:03 +0000   337945 bytes  web/2.0/js/d3.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-21 11:42:03 +0000   362281 bytes  web/2.0/js/dc.js</tspan>
-<tspan x="10" y="2970">184.  2017-04-21 11:42:03 +0000   984726 bytes  web/2.0/js/dc.js.map</tspan>
-<tspan x="10" y="2986">185.  2017-04-21 11:42:03 +0000    85811 bytes  web/2.0/js/dc.min.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-21 11:42:03 +0000   120102 bytes  web/2.0/js/dc.min.js.map</tspan>
-<tspan x="10" y="3018">187.  2017-04-21 11:42:03 +0000  6348996 bytes  web/2.0/js/env-data.js</tspan>
-<tspan x="10" y="3034">188.  2017-04-21 11:42:03 +0000    12355 bytes  web/2.0/js/jasmine-jsreporter.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-21 11:42:03 +0000   347229 bytes  web/2.0/ndx.csv</tspan>
-<tspan x="10" y="3066">190.  2017-04-21 11:42:03 +0000   124229 bytes  web/2.0/play-ground.html</tspan>
-<tspan x="10" y="3082">191.  2017-04-21 11:42:03 +0000      990 bytes  web/2.0/resizing/index.html</tspan>
-<tspan x="10" y="3098">192.  2017-04-21 11:42:03 +0000     1502 bytes  web/2.0/resizing/resizing-bar.html</tspan>
-<tspan x="10" y="3114">193.  2017-04-21 11:42:03 +0000     5674 bytes  web/2.0/resizing/resizing-heatmap.html</tspan>
-<tspan x="10" y="3130">194.  2017-04-21 11:42:03 +0000     1203 bytes  web/2.0/resizing/resizing-pie.html</tspan>
-<tspan x="10" y="3146">195.  2017-04-21 11:42:03 +0000     4139 bytes  web/2.0/resizing/resizing-right-axis.html</tspan>
-<tspan x="10" y="3162">196.  2017-04-21 11:42:03 +0000     1230 bytes  web/2.0/resizing/resizing-row.html</tspan>
-<tspan x="10" y="3178">197.  2017-04-21 11:42:03 +0000     2828 bytes  web/2.0/resizing/resizing-series.html</tspan>
-<tspan x="10" y="3194">198.  2017-04-21 11:42:03 +0000    29863 bytes  web/2.0/stock.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-21 11:42:03 +0000     2495 bytes  web/2.0/transitions/area-progression.html</tspan>
-<tspan x="10" y="3226">200.  2017-04-21 11:42:03 +0000     3440 bytes  web/2.0/transitions/area-transitions.html</tspan>
-<tspan x="10" y="3242">201.  2017-04-21 11:42:03 +0000     2312 bytes  web/2.0/transitions/bar-progression.html</tspan>
-<tspan x="10" y="3258">202.  2017-04-21 11:42:03 +0000     2513 bytes  web/2.0/transitions/bar-transitions.html</tspan>
-<tspan x="10" y="3274">203.  2017-04-21 11:42:03 +0000     1417 bytes  web/2.0/transitions/index.html</tspan>
-<tspan x="10" y="3290">204.  2017-04-21 11:42:03 +0000     4703 bytes  web/2.0/transitions/number-transitions.html</tspan>
-<tspan x="10" y="3306">205.  2017-04-21 11:42:03 +0000     1784 bytes  web/2.0/transitions/ordinal-bar-transitions.html</tspan>
-<tspan x="10" y="3322">206.  2017-04-21 11:42:03 +0000     1720 bytes  web/2.0/transitions/ordinal-line-transitions.htm\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 11:43:27 +0000 31691737 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 11:43:27 +0000     3385 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 11:43:27 +0000     3390 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 11:43:27 +0000    22413 bytes  Changelog.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 11:43:27 +0000    17747 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 11:43:27 +0000    10835 bytes  LICENSE</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 11:43:27 +0000      751 bytes  LICENSE_BANNER</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 11:43:27 +0000     4389 bytes  README.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 11:43:27 +0000     1591 bytes  _SpecRunner.html</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 11:43:27 +0000      339 bytes  bower.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 11:43:27 +0000     1102 bytes  class-hierarchy.dot</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 11:43:27 +0000      537 bytes  component.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 11:43:27 +0000     4109 bytes  dc.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 11:43:27 +0000   362282 bytes  dc.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 11:43:27 +0000   984728 bytes  dc.js.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 11:43:27 +0000     3282 bytes  dc.min.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 11:43:27 +0000    85812 bytes  dc.min.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 11:43:27 +0000   120103 bytes  dc.min.js.map</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 11:43:27 +0000     6281 bytes  docs/coverage.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 11:43:27 +0000      282 bytes  docs/welcome.base.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 11:43:27 +0000     1432 bytes  grunt/format-file-list.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 11:43:27 +0000      123 bytes  index.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 11:43:27 +0000      760 bytes  jsdoc.conf.json</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 11:43:27 +0000     1967 bytes  package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 11:43:27 +0000      177 bytes  regression/inject-serializer.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 11:43:27 +0000   251384 bytes  regression/rendered-stock-fixture.html</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 11:43:27 +0000     4725 bytes  regression/stock-regression-test.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 11:43:27 +0000      932 bytes  scripts/check_merge_conflict.py</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 11:43:27 +0000      195 bytes  scripts/pre-commit.sh</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 11:43:27 +0000    53013 bytes  spec/bar-chart-spec.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 11:43:27 +0000    23801 bytes  spec/base-mixin-spec.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 11:43:27 +0000   102721 bytes  spec/biggish-data-spec.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 11:43:27 +0000     8003 bytes  spec/box-plot-spec.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 11:43:27 +0000    26998 bytes  spec/bubble-chart-spec.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 11:43:27 +0000     4466 bytes  spec/bubble-overlay-spec.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 11:43:27 +0000     3211 bytes  spec/color-spec.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 11:43:27 +0000    29859 bytes  spec/composite-chart-spec.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 11:43:27 +0000    38454 bytes  spec/coordinate-grid-chart-spec.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 11:43:27 +0000    11557 bytes  spec/core-spec.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 11:43:27 +0000     4854 bytes  spec/data-addition-spec.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 11:43:27 +0000     6824 bytes  spec/data-count-spec.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 11:43:27 +0000     4486 bytes  spec/data-grid-spec.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 11:43:27 +0000     9661 bytes  spec/data-table-spec.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 11:43:27 +0000     1226 bytes  spec/event-spec.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 11:43:27 +0000     3129 bytes  spec/filter-dates-spec.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 11:43:27 +0000     5361 bytes  spec/filters-spec.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 11:43:27 +0000    14421 bytes  spec/geo-choropleth-chart-spec.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 11:43:27 +0000    23605 bytes  spec/heatmap-spec.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 11:43:27 +0000     6945 bytes  spec/helpers/custom_matchers.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 11:43:27 +0000    13098 bytes  spec/helpers/fixtures.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 11:43:27 +0000  6344143 bytes  spec/helpers/geoFixtures.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 11:43:27 +0000      969 bytes  spec/helpers/load-jsreporter.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 11:43:27 +0000      972 bytes  spec/helpers/polyfills.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 11:43:27 +0000     1723 bytes  spec/helpers/spec-helper.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 11:43:27 +0000    12258 bytes  spec/legend-spec.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 11:43:27 +0000    34959 bytes  spec/line-chart-spec.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 11:43:27 +0000     2745 bytes  spec/logger-spec.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 11:43:27 +0000     7402 bytes  spec/number-display-spec.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 11:43:27 +0000    30416 bytes  spec/pie-chart-spec.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 11:43:27 +0000    16886 bytes  spec/row-chart-spec.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 11:43:27 +0000    16244 bytes  spec/scatter-plot-spec.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 11:43:27 +0000     4704 bytes  spec/series-chart-spec.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 11:43:27 +0000     5455 bytes  spec/utils-spec.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 11:43:27 +0000       60 bytes  src/banner.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 11:43:27 +0000    12621 bytes  src/bar-chart.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 11:43:27 +0000    55771 bytes  src/base-mixin.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 11:43:27 +0000     8771 bytes  src/box-plot.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 11:43:27 +0000     5918 bytes  src/bubble-chart.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 11:43:27 +0000     7071 bytes  src/bubble-mixin.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 11:43:27 +0000     6829 bytes  src/bubble-overlay.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 11:43:27 +0000     6380 bytes  src/cap-mixin.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 11:43:27 +0000     5953 bytes  src/color-mixin.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 11:43:27 +0000    18025 bytes  src/composite-chart.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 11:43:27 +0000    45830 bytes  src/coordinate-grid-mixin.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 11:43:27 +0000    14141 bytes  src/core.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 11:43:27 +0000    12327 bytes  src/d3.box.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 11:43:27 +0000     4102 bytes  src/data-count.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 11:43:27 +0000     8002 bytes  src/data-grid.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 11:43:27 +0000    15333 bytes  src/data-table.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 11:43:27 +0000      922 bytes  src/errors.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 11:43:27 +0000     1134 bytes  src/events.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 11:43:27 +0000     4378 bytes  src/filters.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 11:43:27 +0000     1211 bytes  src/footer.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 11:43:27 +0000    10058 bytes  src/geo-choropleth-chart.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 11:43:27 +0000    12507 bytes  src/heatmap.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 11:43:27 +0000     8362 bytes  src/legend.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 11:43:27 +0000    18416 bytes  src/line-chart.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 11:43:27 +0000      820 bytes  src/logger.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 11:43:27 +0000     1396 bytes  src/margin-mixin.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 11:43:27 +0000     5276 bytes  src/number-display.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 11:43:27 +0000    18989 bytes  src/pie-chart.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 11:43:27 +0000    12968 bytes  src/row-chart.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-21 11:43:27 +0000    13827 bytes  src/scatter-plot.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-21 11:43:27 +0000     6761 bytes  src/series-chart.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-21 11:43:27 +0000     9911 bytes  src/stack-mixin.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-21 11:43:27 +0000     7452 bytes  src/utils.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-21 11:43:27 +0000     5628 bytes  style/dc.scss</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-21 11:43:27 +0000   104347 bytes  web/2.0/crime/canada_map.svg</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-21 11:43:27 +0000    87521 bytes  web/2.0/crime/crime.csv</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-21 11:43:27 +0000     1894 bytes  web/2.0/crime/filter_stats.rb</tspan>
+<tspan x="10" y="1626">100.  2017-04-21 11:43:27 +0000   108569 bytes  web/2.0/crime/index.html</tspan>
+<tspan x="10" y="1642">101.  2017-04-21 11:43:27 +0000   118128 bytes  web/2.0/css/bootstrap.css</tspan>
+<tspan x="10" y="1658">102.  2017-04-21 11:43:27 +0000    98165 bytes  web/2.0/css/bootstrap.min.css</tspan>
+<tspan x="10" y="1674">103.  2017-04-21 11:43:27 +0000    46743 bytes  web/2.0/css/colorbrewer.css</tspan>
+<tspan x="10" y="1690">104.  2017-04-21 11:43:27 +0000     4109 bytes  web/2.0/css/dc.css</tspan>
+<tspan x="10" y="1706">105.  2017-04-21 11:43:27 +0000     3282 bytes  web/2.0/css/dc.min.css</tspan>
+<tspan x="10" y="1722">106.  2017-04-21 11:43:27 +0000     4907 bytes  web/2.0/dc.logo.png</tspan>
+<tspan x="10" y="1738">107.  2017-04-21 11:43:27 +0000     4698 bytes  web/2.0/dc.logo.svg</tspan>
+<tspan x="10" y="1754">108.  2017-04-21 11:43:27 +0000    47712 bytes  web/2.0/docs/api-1.5.0.md</tspan>
+<tspan x="10" y="1770">109.  2017-04-21 11:43:27 +0000    50626 bytes  web/2.0/docs/api-1.6.0.md</tspan>
+<tspan x="10" y="1786">110.  2017-04-21 11:43:27 +0000    50770 bytes  web/2.0/docs/api-1.7.0.md</tspan>
+<tspan x="10" y="1802">111.  2017-04-21 11:43:27 +0000   251896 bytes  web/2.0/docs/api-2.0.0.md</tspan>
+<tspan x="10" y="1818">112.  2017-04-21 11:43:27 +0000   251896 bytes  web/2.0/docs/api-latest.md</tspan>
+<tspan x="10" y="1834">113.  2017-04-21 11:43:27 +0000     9790 bytes  web/2.0/docs/docco.css</tspan>
+<tspan x="10" y="1850">114.  2017-04-21 11:43:27 +0000   104319 bytes  web/2.0/docs/stock.html</tspan>
+<tspan x="10" y="1866">115.  2017-04-21 11:43:27 +0000       43 bytes  web/2.0/ep/blank.gif</tspan>
+<tspan x="10" y="1882">116.  2017-04-21 11:43:27 +0000     6634 bytes  web/2.0/ep/index.html</tspan>
+<tspan x="10" y="1898">117.  2017-04-21 11:43:27 +0000     2542 bytes  web/2.0/ep/list.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-21 11:43:27 +0000    55687 bytes  web/2.0/ep/mep.csv</tspan>
+<tspan x="10" y="1930">119.  2017-04-21 11:43:27 +0000     4121 bytes  web/2.0/examples/adjustable-threshold.html</tspan>
+<tspan x="10" y="1946">120.  2017-04-21 11:43:27 +0000     8651 bytes  web/2.0/examples/align-axes.html</tspan>
+<tspan x="10" y="1962">121.  2017-04-21 11:43:27 +0000     2097 bytes  web/2.0/examples/area.html</tspan>
+<tspan x="10" y="1978">122.  2017-04-21 11:43:27 +0000     2811 bytes  web/2.0/examples/bar-extra-line.html</tspan>
+<tspan x="10" y="1994">123.  2017-04-21 11:43:27 +0000     1754 bytes  web/2.0/examples/bar-single-select.html</tspan>
+<tspan x="10" y="2010">124.  2017-04-21 11:43:27 +0000     1391 bytes  web/2.0/examples/bar.html</tspan>
+<tspan x="10" y="2026">125.  2017-04-21 11:43:27 +0000     2322 bytes  web/2.0/examples/box-plot-time.html</tspan>
+<tspan x="10" y="2042">126.  2017-04-21 11:43:27 +0000     1891 bytes  web/2.0/examples/box-plot.html</tspan>
+<tspan x="10" y="2058">127.  2017-04-21 11:43:27 +0000     5657 bytes  web/2.0/examples/complex-reduce.html</tspan>
+<tspan x="10" y="2074">128.  2017-04-21 11:43:27 +0000     1967 bytes  web/2.0/examples/composite.html</tspan>
+<tspan x="10" y="2090">129.  2017-04-21 11:43:27 +0000     5025 bytes  web/2.0/examples/download-table.html</tspan>
+<tspan x="10" y="2106">130.  2017-04-21 11:43:27 +0000     3124 bytes  web/2.0/examples/filtering-removing.html</tspan>
+<tspan x="10" y="2122">131.  2017-04-21 11:43:27 +0000     3859 bytes  web/2.0/examples/filtering.html</tspan>
+<tspan x="10" y="2138">132.  2017-04-21 11:43:27 +0000      289 bytes  web/2.0/examples/fruits.json</tspan>
+<tspan x="10" y="2154">133.  2017-04-21 11:43:27 +0000      821 bytes  web/2.0/examples/header.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-21 11:43:27 +0000     1638 bytes  web/2.0/examples/heat.html</tspan>
+<tspan x="10" y="2186">135.  2017-04-21 11:43:27 +0000     5043 bytes  web/2.0/examples/heatmap-filtering.html</tspan>
+<tspan x="10" y="2202">136.  2017-04-21 11:43:27 +0000     2761 bytes  web/2.0/examples/index.html</tspan>
+<tspan x="10" y="2218">137.  2017-04-21 11:43:27 +0000      717 bytes  web/2.0/examples/intervals.csv</tspan>
+<tspan x="10" y="2234">138.  2017-04-21 11:43:27 +0000     3716 bytes  web/2.0/examples/iris.csv</tspan>
+<tspan x="10" y="2250">139.  2017-04-21 11:43:27 +0000     1342 bytes  web/2.0/examples/line.html</tspan>
+<tspan x="10" y="2266">140.  2017-04-21 11:43:27 +0000    11310 bytes  web/2.0/examples/lysenko-interval-tree.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-21 11:43:27 +0000   347214 bytes  web/2.0/examples/monthly-move.csv</tspan>
+<tspan x="10" y="2298">142.  2017-04-21 11:43:27 +0000      874 bytes  web/2.0/examples/morley.csv</tspan>
+<tspan x="10" y="2314">143.  2017-04-21 11:43:27 +0000      703 bytes  web/2.0/examples/morley2.csv</tspan>
+<tspan x="10" y="2330">144.  2017-04-21 11:43:27 +0000     1047 bytes  web/2.0/examples/morley3.csv</tspan>
+<tspan x="10" y="2346">145.  2017-04-21 11:43:27 +0000     3831 bytes  web/2.0/examples/multi-focus.html</tspan>
+<tspan x="10" y="2362">146.  2017-04-21 11:43:27 +0000     1970 bytes  web/2.0/examples/multi-scatter.html</tspan>
+<tspan x="10" y="2378">147.  2017-04-21 11:43:27 +0000     2775 bytes  web/2.0/examples/number.html</tspan>
+<tspan x="10" y="2394">148.  2017-04-21 11:43:27 +0000     1359 bytes  web/2.0/examples/ordinal-bar.html</tspan>
+<tspan x="10" y="2410">149.  2017-04-21 11:43:27 +0000     1303 bytes  web/2.0/examples/ordinal-line.html</tspan>
+<tspan x="10" y="2426">150.  2017-04-21 11:43:27 +0000     1828 bytes  web/2.0/examples/pie-external-labels.html</tspan>
+<tspan x="10" y="2442">151.  2017-04-21 11:43:27 +0000     1454 bytes  web/2.0/examples/pie.html</tspan>
+<tspan x="10" y="2458">152.  2017-04-21 11:43:27 +0000     3820 bytes  web/2.0/examples/range-series.html</tspan>
+<tspan x="10" y="2474">153.  2017-04-21 11:43:27 +0000     3649 bytes  web/2.0/examples/replacing-data.html</tspan>
+<tspan x="10" y="2490">154.  2017-04-21 11:43:27 +0000     3997 bytes  web/2.0/examples/right-axis.html</tspan>
+<tspan x="10" y="2506">155.  2017-04-21 11:43:27 +0000     1192 bytes  web/2.0/examples/row.html</tspan>
+<tspan x="10" y="2522">156.  2017-04-21 11:43:27 +0000     1793 bytes  web/2.0/examples/scatter-brushing.html</tspan>
+<tspan x="10" y="2538">157.  2017-04-21 11:43:27 +0000     1993 bytes  web/2.0/examples/scatter-series.html</tspan>
+<tspan x="10" y="2554">158.  2017-04-21 11:43:27 +0000     1280 bytes  web/2.0/examples/scatter.html</tspan>
+<tspan x="10" y="2570">159.  2017-04-21 11:43:27 +0000     2200 bytes  web/2.0/examples/series.html</tspan>
+<tspan x="10" y="2586">160.  2017-04-21 11:43:27 +0000     2472 bytes  web/2.0/examples/sparkline.html</tspan>
+<tspan x="10" y="2602">161.  2017-04-21 11:43:27 +0000     7803 bytes  web/2.0/examples/splom.html</tspan>
+<tspan x="10" y="2618">162.  2017-04-21 11:43:27 +0000     2429 bytes  web/2.0/examples/stacked-bar.html</tspan>
+<tspan x="10" y="2634">163.  2017-04-21 11:43:27 +0000     6624 bytes  web/2.0/examples/switching-time-intervals.html</tspan>
+<tspan x="10" y="2650">164.  2017-04-21 11:43:27 +0000     2591 bytes  web/2.0/examples/table-on-aggregated-data.html</tspan>
+<tspan x="10" y="2666">165.  2017-04-21 11:43:27 +0000     2250 bytes  web/2.0/examples/table-pagination.html</tspan>
+<tspan x="10" y="2682">166.  2017-04-21 11:43:27 +0000     5046 bytes  web/2.0/examples/time-intervals.html</tspan>
+<tspan x="10" y="2698">167.  2017-04-21 11:43:27 +0000     4572 bytes  web/2.0/geo/us-counties.json</tspan>
+<tspan x="10" y="2714">168.  2017-04-21 11:43:27 +0000    87734 bytes  web/2.0/geo/us-states.json</tspan>
+<tspan x="10" y="2730">169.  2017-04-21 11:43:27 +0000     1451 bytes  web/2.0/highlighter/shAutoloader.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-21 11:43:27 +0000     1649 bytes  web/2.0/highlighter/shBrushJScript.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-21 11:43:27 +0000     1998 bytes  web/2.0/highlighter/shBrushXml.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-21 11:43:27 +0000     6204 bytes  web/2.0/highlighter/shCore.css</tspan>
+<tspan x="10" y="2794">173.  2017-04-21 11:43:27 +0000    16175 bytes  web/2.0/highlighter/shCore.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-21 11:43:27 +0000     2877 bytes  web/2.0/highlighter/shThemeDefault.css</tspan>
+<tspan x="10" y="2826">175.  2017-04-21 11:43:27 +0000    18463 bytes  web/2.0/img/class-hierarchy.svg</tspan>
+<tspan x="10" y="2842">176.  2017-04-21 11:43:27 +0000     8777 bytes  web/2.0/img/glyphicons-halflings-white.png</tspan>
+<tspan x="10" y="2858">177.  2017-04-21 11:43:27 +0000    12799 bytes  web/2.0/img/glyphicons-halflings.png</tspan>
+<tspan x="10" y="2874">178.  2017-04-21 11:43:27 +0000     8031 bytes  web/2.0/index.html</tspan>
+<tspan x="10" y="2890">179.  2017-04-21 11:43:27 +0000     5965 bytes  web/2.0/js/FileSaver.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-21 11:43:27 +0000    18274 bytes  web/2.0/js/colorbrewer.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-21 11:43:27 +0000    44384 bytes  web/2.0/js/crossfilter.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-21 11:43:27 +0000   337945 bytes  web/2.0/js/d3.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-21 11:43:27 +0000   362281 bytes  web/2.0/js/dc.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-21 11:43:27 +0000   984726 bytes  web/2.0/js/dc.js.map</tspan>
+<tspan x="10" y="2986">185.  2017-04-21 11:43:27 +0000    85811 bytes  web/2.0/js/dc.min.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-21 11:43:27 +0000   120102 bytes  web/2.0/js/dc.min.js.map</tspan>
+<tspan x="10" y="3018">187.  2017-04-21 11:43:27 +0000  6348996 bytes  web/2.0/js/env-data.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-21 11:43:27 +0000    12355 bytes  web/2.0/js/jasmine-jsreporter.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-21 11:43:27 +0000   347229 bytes  web/2.0/ndx.csv</tspan>
+<tspan x="10" y="3066">190.  2017-04-21 11:43:27 +0000   124229 bytes  web/2.0/play-ground.html</tspan>
+<tspan x="10" y="3082">191.  2017-04-21 11:43:27 +0000      990 bytes  web/2.0/resizing/index.html</tspan>
+<tspan x="10" y="3098">192.  2017-04-21 11:43:27 +0000     1502 bytes  web/2.0/resizing/resizing-bar.html</tspan>
+<tspan x="10" y="3114">193.  2017-04-21 11:43:27 +0000     5674 bytes  web/2.0/resizing/resizing-heatmap.html</tspan>
+<tspan x="10" y="3130">194.  2017-04-21 11:43:27 +0000     1203 bytes  web/2.0/resizing/resizing-pie.html</tspan>
+<tspan x="10" y="3146">195.  2017-04-21 11:43:27 +0000     4139 bytes  web/2.0/resizing/resizing-right-axis.html</tspan>
+<tspan x="10" y="3162">196.  2017-04-21 11:43:27 +0000     1230 bytes  web/2.0/resizing/resizing-row.html</tspan>
+<tspan x="10" y="3178">197.  2017-04-21 11:43:27 +0000     2828 bytes  web/2.0/resizing/resizing-series.html</tspan>
+<tspan x="10" y="3194">198.  2017-04-21 11:43:27 +0000    29863 bytes  web/2.0/stock.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-21 11:43:27 +0000     2495 bytes  web/2.0/transitions/area-progression.html</tspan>
+<tspan x="10" y="3226">200.  2017-04-21 11:43:27 +0000     3440 bytes  web/2.0/transitions/area-transitions.html</tspan>
+<tspan x="10" y="3242">201.  2017-04-21 11:43:27 +0000     2312 bytes  web/2.0/transitions/bar-progression.html</tspan>
+<tspan x="10" y="3258">202.  2017-04-21 11:43:27 +0000     2513 bytes  web/2.0/transitions/bar-transitions.html</tspan>
+<tspan x="10" y="3274">203.  2017-04-21 11:43:27 +0000     1417 bytes  web/2.0/transitions/index.html</tspan>
+<tspan x="10" y="3290">204.  2017-04-21 11:43:27 +0000     4703 bytes  web/2.0/transitions/number-transitions.html</tspan>
+<tspan x="10" y="3306">205.  2017-04-21 11:43:27 +0000     1784 bytes  web/2.0/transitions/ordinal-bar-transitions.html</tspan>
+<tspan x="10" y="3322">206.  2017-04-21 11:43:27 +0000     1720 bytes  web/2.0/transitions/ordinal-line-transitions.htm\</tspan>
 <tspan x="10" y="3338">l</tspan>
-<tspan x="10" y="3354">207.  2017-04-21 11:42:03 +0000     1473 bytes  web/2.0/transitions/ordinal-row-transitions.html</tspan>
-<tspan x="10" y="3370">208.  2017-04-21 11:42:03 +0000     2478 bytes  web/2.0/transitions/ordinal-transition.js</tspan>
-<tspan x="10" y="3386">209.  2017-04-21 11:42:03 +0000     2703 bytes  web/2.0/transitions/pie-external-label-transitio\</tspan>
+<tspan x="10" y="3354">207.  2017-04-21 11:43:27 +0000     1473 bytes  web/2.0/transitions/ordinal-row-transitions.html</tspan>
+<tspan x="10" y="3370">208.  2017-04-21 11:43:27 +0000     2478 bytes  web/2.0/transitions/ordinal-transition.js</tspan>
+<tspan x="10" y="3386">209.  2017-04-21 11:43:27 +0000     2703 bytes  web/2.0/transitions/pie-external-label-transitio\</tspan>
 <tspan x="10" y="3402">ns.html</tspan>
-<tspan x="10" y="3418">210.  2017-04-21 11:42:03 +0000     2597 bytes  web/2.0/transitions/pie-transitions.html</tspan>
-<tspan x="10" y="3434">211.  2017-04-21 11:42:03 +0000     3262 bytes  web/2.0/transitions/stacked-bar-transitions.html</tspan>
-<tspan x="10" y="3450">212.  2017-04-21 11:42:03 +0000     3955 bytes  web/2.0/transitions/transition-test.js</tspan>
-<tspan x="10" y="3466">213.  2017-04-21 11:42:03 +0000     9637 bytes  web/2.0/vc/index.html</tspan>
-<tspan x="10" y="3482">214.  2017-04-21 11:42:03 +0000     1640 bytes  web/2.0/vc/state2code.rb</tspan>
-<tspan x="10" y="3498">215.  2017-04-21 11:42:03 +0000   299942 bytes  web/2.0/vc/vc.csv</tspan>
-<tspan x="10" y="3514">216.  2017-04-21 11:42:03 +0000      650 bytes  web/2.0/zoom/index.html</tspan>
-<tspan x="10" y="3530">217.  2017-04-21 11:42:03 +0000     6905 bytes  web/2.0/zoom/restrict-panning.html</tspan>
-<tspan x="10" y="3546">218.  2017-04-21 11:42:03 +0000   104347 bytes  web/crime/canada_map.svg</tspan>
-<tspan x="10" y="3562">219.  2017-04-21 11:42:03 +0000    87521 bytes  web/crime/crime.csv</tspan>
-<tspan x="10" y="3578">220.  2017-04-21 11:42:03 +0000     1894 bytes  web/crime/filter_stats.rb</tspan>
-<tspan x="10" y="3594">221.  2017-04-21 11:42:03 +0000   108569 bytes  web/crime/index.html</tspan>
-<tspan x="10" y="3610">222.  2017-04-21 11:42:03 +0000   118128 bytes  web/css/bootstrap.css</tspan>
-<tspan x="10" y="3626">223.  2017-04-21 11:42:03 +0000    98165 bytes  web/css/bootstrap.min.css</tspan>
-<tspan x="10" y="3642">224.  2017-04-21 11:42:03 +0000    46743 bytes  web/css/colorbrewer.css</tspan>
-<tspan x="10" y="3658">225.  2017-04-21 11:42:03 +0000     4109 bytes  web/css/dc.css</tspan>
-<tspan x="10" y="3674">226.  2017-04-21 11:42:03 +0000     3282 bytes  web/css/dc.min.css</tspan>
-<tspan x="10" y="3690">227.  2017-04-21 11:42:03 +0000     4907 bytes  web/dc.logo.png</tspan>
-<tspan x="10" y="3706">228.  2017-04-21 11:42:03 +0000     4698 bytes  web/dc.logo.svg</tspan>
-<tspan x="10" y="3722">229.  2017-04-21 11:42:03 +0000    47712 bytes  web/docs/api-1.5.0.md</tspan>
-<tspan x="10" y="3738">230.  2017-04-21 11:42:03 +0000    50626 bytes  web/docs/api-1.6.0.md</tspan>
-<tspan x="10" y="3754">231.  2017-04-21 11:42:03 +0000    50770 bytes  web/docs/api-1.7.0.md</tspan>
-<tspan x="10" y="3770">232.  2017-04-21 11:42:03 +0000   251896 bytes  web/docs/api-2.0.0.md</tspan>
-<tspan x="10" y="3786">233.  2017-04-21 11:42:03 +0000   251896 bytes  web/docs/api-latest.md</tspan>
-<tspan x="10" y="3802">234.  2017-04-21 11:42:03 +0000     9790 bytes  web/docs/docco.css</tspan>
-<tspan x="10" y="3818">235.  2017-04-21 11:42:03 +0000   104319 bytes  web/docs/stock.html</tspan>
-<tspan x="10" y="3834">236.  2017-04-21 11:42:03 +0000       43 bytes  web/ep/blank.gif</tspan>
-<tspan x="10" y="3850">237.  2017-04-21 11:42:03 +0000     6647 bytes  web/ep/index.html</tspan>
-<tspan x="10" y="3866">238.  2017-04-21 11:42:03 +0000     2542 bytes  web/ep/list.js</tspan>
-<tspan x="10" y="3882">239.  2017-04-21 11:42:03 +0000    55687 bytes  web/ep/mep.csv</tspan>
-<tspan x="10" y="3898">240.  2017-04-21 11:42:03 +0000     4121 bytes  web/examples/adjustable-threshold.html</tspan>
-<tspan x="10" y="3914">241.  2017-04-21 11:42:03 +0000     8651 bytes  web/examples/align-axes.html</tspan>
-<tspan x="10" y="3930">242.  2017-04-21 11:42:03 +0000     2097 bytes  web/examples/area.html</tspan>
-<tspan x="10" y="3946">243.  2017-04-21 11:42:03 +0000     2811 bytes  web/examples/bar-extra-line.html</tspan>
-<tspan x="10" y="3962">244.  2017-04-21 11:42:03 +0000     1754 bytes  web/examples/bar-single-select.html</tspan>
-<tspan x="10" y="3978">245.  2017-04-21 11:42:03 +0000     1391 bytes  web/examples/bar.html</tspan>
-<tspan x="10" y="3994">246.  2017-04-21 11:42:03 +0000     2322 bytes  web/examples/box-plot-time.html</tspan>
-<tspan x="10" y="4010">247.  2017-04-21 11:42:03 +0000     1891 bytes  web/examples/box-plot.html</tspan>
-<tspan x="10" y="4026">248.  2017-04-21 11:42:03 +0000     5657 bytes  web/examples/complex-reduce.html</tspan>
-<tspan x="10" y="4042">249.  2017-04-21 11:42:03 +0000     1950 bytes  web/examples/composite.html</tspan>
-<tspan x="10" y="4058">250.  2017-04-21 11:42:03 +0000     5025 bytes  web/examples/download-table.html</tspan>
-<tspan x="10" y="4074">251.  2017-04-21 11:42:03 +0000     3124 bytes  web/examples/filtering-removing.html</tspan>
-<tspan x="10" y="4090">252.  2017-04-21 11:42:03 +0000     3859 bytes  web/examples/filtering.html</tspan>
-<tspan x="10" y="4106">253.  2017-04-21 11:42:03 +0000      289 bytes  web/examples/fruits.json</tspan>
-<tspan x="10" y="4122">254.  2017-04-21 11:42:03 +0000      821 bytes  web/examples/header.js</tspan>
-<tspan x="10" y="4138">255.  2017-04-21 11:42:03 +0000     1638 bytes  web/examples/heat.html</tspan>
-<tspan x="10" y="4154">256.  2017-04-21 11:42:03 +0000     5043 bytes  web/examples/heatmap-filtering.html</tspan>
-<tspan x="10" y="4170">257.  2017-04-21 11:42:03 +0000     2761 bytes  web/examples/index.html</tspan>
-<tspan x="10" y="4186">258.  2017-04-21 11:42:03 +0000      717 bytes  web/examples/intervals.csv</tspan>
-<tspan x="10" y="4202">259.  2017-04-21 11:42:03 +0000     3716 bytes  web/examples/iris.csv</tspan>
-<tspan x="10" y="4218">260.  2017-04-21 11:42:03 +0000     1342 bytes  web/examples/line.html</tspan>
-<tspan x="10" y="4234">261.  2017-04-21 11:42:03 +0000    11310 bytes  web/examples/lysenko-interval-tree.js</tspan>
-<tspan x="10" y="4250">262.  2017-04-21 11:42:03 +0000   347214 bytes  web/examples/monthly-move.csv</tspan>
-<tspan x="10" y="4266">263.  2017-04-21 11:42:03 +0000      874 bytes  web/examples/morley.csv</tspan>
-<tspan x="10" y="4282">264.  2017-04-21 11:42:03 +0000      703 bytes  web/examples/morley2.csv</tspan>
-<tspan x="10" y="4298">265.  2017-04-21 11:42:03 +0000     1047 bytes  web/examples/morley3.csv</tspan>
-<tspan x="10" y="4314">266.  2017-04-21 11:42:03 +0000     3831 bytes  web/examples/multi-focus.html</tspan>
-<tspan x="10" y="4330">267.  2017-04-21 11:42:03 +0000     1970 bytes  web/examples/multi-scatter.html</tspan>
-<tspan x="10" y="4346">268.  2017-04-21 11:42:03 +0000     2775 bytes  web/examples/number.html</tspan>
-<tspan x="10" y="4362">269.  2017-04-21 11:42:03 +0000     1359 bytes  web/examples/ordinal-bar.html</tspan>
-<tspan x="10" y="4378">270.  2017-04-21 11:42:03 +0000     1303 bytes  web/examples/ordinal-line.html</tspan>
-<tspan x="10" y="4394">271.  2017-04-21 11:42:03 +0000     1828 bytes  web/examples/pie-external-labels.html</tspan>
-<tspan x="10" y="4410">272.  2017-04-21 11:42:03 +0000     1454 bytes  web/examples/pie.html</tspan>
-<tspan x="10" y="4426">273.  2017-04-21 11:42:03 +0000     3820 bytes  web/examples/range-series.html</tspan>
-<tspan x="10" y="4442">274.  2017-04-21 11:42:03 +0000     3649 bytes  web/examples/replacing-data.html</tspan>
-<tspan x="10" y="4458">275.  2017-04-21 11:42:03 +0000     3918 bytes  web/examples/right-axis.html</tspan>
-<tspan x="10" y="4474">276.  2017-04-21 11:42:03 +0000     1192 bytes  web/examples/row.html</tspan>
-<tspan x="10" y="4490">277.  2017-04-21 11:42:03 +0000     1793 bytes  web/examples/scatter-brushing.html</tspan>
-<tspan x="10" y="4506">278.  2017-04-21 11:42:03 +0000     1993 bytes  web/examples/scatter-series.html</tspan>
-<tspan x="10" y="4522">279.  2017-04-21 11:42:03 +0000     1280 bytes  web/examples/scatter.html</tspan>
-<tspan x="10" y="4538">280.  2017-04-21 11:42:03 +0000     2200 bytes  web/examples/series.html</tspan>
-<tspan x="10" y="4554">281.  2017-04-21 11:42:03 +0000     2472 bytes  web/examples/sparkline.html</tspan>
-<tspan x="10" y="4570">282.  2017-04-21 11:42:03 +0000     7803 bytes  web/examples/splom.html</tspan>
-<tspan x="10" y="4586">283.  2017-04-21 11:42:03 +0000     2429 bytes  web/examples/stacked-bar.html</tspan>
-<tspan x="10" y="4602">284.  2017-04-21 11:42:03 +0000     6624 bytes  web/examples/switching-time-intervals.html</tspan>
-<tspan x="10" y="4618">285.  2017-04-21 11:42:03 +0000     2591 bytes  web/examples/table-on-aggregated-data.html</tspan>
-<tspan x="10" y="4634">286.  2017-04-21 11:42:03 +0000     2250 bytes  web/examples/table-pagination.html</tspan>
-<tspan x="10" y="4650">287.  2017-04-21 11:42:03 +0000     5046 bytes  web/examples/time-intervals.html</tspan>
-<tspan x="10" y="4666">288.  2017-04-21 11:42:03 +0000     4572 bytes  web/geo/us-counties.json</tspan>
-<tspan x="10" y="4682">289.  2017-04-21 11:42:03 +0000    87734 bytes  web/geo/us-states.json</tspan>
-<tspan x="10" y="4698">290.  2017-04-21 11:42:03 +0000     1451 bytes  web/highlighter/shAutoloader.js</tspan>
-<tspan x="10" y="4714">291.  2017-04-21 11:42:03 +0000     1649 bytes  web/highlighter/shBrushJScript.js</tspan>
-<tspan x="10" y="4730">292.  2017-04-21 11:42:03 +0000     1998 bytes  web/highlighter/shBrushXml.js</tspan>
-<tspan x="10" y="4746">293.  2017-04-21 11:42:03 +0000     6204 bytes  web/highlighter/shCore.css</tspan>
-<tspan x="10" y="4762">294.  2017-04-21 11:42:03 +0000    16175 bytes  web/highlighter/shCore.js</tspan>
-<tspan x="10" y="4778">295.  2017-04-21 11:42:03 +0000     2877 bytes  web/highlighter/shThemeDefault.css</tspan>
-<tspan x="10" y="4794">296.  2017-04-21 11:42:03 +0000    19152 bytes  web/img/class-hierarchy.svg</tspan>
-<tspan x="10" y="4810">297.  2017-04-21 11:42:03 +0000     8777 bytes  web/img/glyphicons-halflings-white.png</tspan>
-<tspan x="10" y="4826">298.  2017-04-21 11:42:03 +0000    12799 bytes  web/img/glyphicons-halflings.png</tspan>
-<tspan x="10" y="4842">299.  2017-04-21 11:42:03 +0000     8031 bytes  web/index.html</tspan>
-<tspan x="10" y="4858">300.  2017-04-21 11:42:03 +0000     5965 bytes  web/js/FileSaver.js</tspan>
-<tspan x="10" y="4874">301.  2017-04-21 11:42:03 +0000    18274 bytes  web/js/colorbrewer.js</tspan>
-<tspan x="10" y="4890">302.  2017-04-21 11:42:03 +0000    44384 bytes  web/js/crossfilter.js</tspan>
-<tspan x="10" y="4906">303.  2017-04-21 11:42:03 +0000   337945 bytes  web/js/d3.js</tspan>
-<tspan x="10" y="4922">304.  2017-04-21 11:42:03 +0000   362282 bytes  web/js/dc.js</tspan>
-<tspan x="10" y="4938">305.  2017-04-21 11:42:03 +0000   984728 bytes  web/js/dc.js.map</tspan>
-<tspan x="10" y="4954">306.  2017-04-21 11:42:03 +0000    85812 bytes  web/js/dc.min.js</tspan>
-<tspan x="10" y="4970">307.  2017-04-21 11:42:03 +0000   120103 bytes  web/js/dc.min.js.map</tspan>
-<tspan x="10" y="4986">308.  2017-04-21 11:42:03 +0000  6348996 bytes  web/js/env-data.js</tspan>
-<tspan x="10" y="5002">309.  2017-04-21 11:42:03 +0000    12355 bytes  web/js/jasmine-jsreporter.js</tspan>
-<tspan x="10" y="5018">310.  2017-04-21 11:42:03 +0000     2809 bytes  web/js/queue.js</tspan>
-<tspan x="10" y="5034">311.  2017-04-21 11:42:03 +0000   347229 bytes  web/ndx.csv</tspan>
-<tspan x="10" y="5050">312.  2017-04-21 11:42:03 +0000   124229 bytes  web/play-ground.html</tspan>
-<tspan x="10" y="5066">313.  2017-04-21 11:42:03 +0000      990 bytes  web/resizing/index.html</tspan>
-<tspan x="10" y="5082">314.  2017-04-21 11:42:03 +0000     1502 bytes  web/resizing/resizing-bar.html</tspan>
-<tspan x="10" y="5098">315.  2017-04-21 11:42:03 +0000     5674 bytes  web/resizing/resizing-heatmap.html</tspan>
-<tspan x="10" y="5114">316.  2017-04-21 11:42:03 +0000     1203 bytes  web/resizing/resizing-pie.html</tspan>
-<tspan x="10" y="5130">317.  2017-04-21 11:42:03 +0000     4139 bytes  web/resizing/resizing-right-axis.html</tspan>
-<tspan x="10" y="5146">318.  2017-04-21 11:42:03 +0000     1230 bytes  web/resizing/resizing-row.html</tspan>
-<tspan x="10" y="5162">319.  2017-04-21 11:42:03 +0000     2828 bytes  web/resizing/resizing-series.html</tspan>
-<tspan x="10" y="5178">320.  2017-04-21 11:42:03 +0000    29863 bytes  web/stock.js</tspan>
-<tspan x="10" y="5194">321.  2017-04-21 11:42:03 +0000     2495 bytes  web/transitions/area-progression.html</tspan>
-<tspan x="10" y="5210">322.  2017-04-21 11:42:03 +0000     3440 bytes  web/transitions/area-transitions.html</tspan>
-<tspan x="10" y="5226">323.  2017-04-21 11:42:03 +0000     2312 bytes  web/transitions/bar-progression.html</tspan>
-<tspan x="10" y="5242">324.  2017-04-21 11:42:03 +0000     2513 bytes  web/transitions/bar-transitions.html</tspan>
-<tspan x="10" y="5258">325.  2017-04-21 11:42:03 +0000     1417 bytes  web/transitions/index.html</tspan>
-<tspan x="10" y="5274">326.  2017-04-21 11:42:03 +0000     4703 bytes  web/transitions/number-transitions.html</tspan>
-<tspan x="10" y="5290">327.  2017-04-21 11:42:03 +0000     1784 bytes  web/transitions/ordinal-bar-transitions.html</tspan>
-<tspan x="10" y="5306">328.  2017-04-21 11:42:03 +0000     1720 bytes  web/transitions/ordinal-line-transitions.html</tspan>
-<tspan x="10" y="5322">329.  2017-04-21 11:42:03 +0000     1473 bytes  web/transitions/ordinal-row-transitions.html</tspan>
-<tspan x="10" y="5338">330.  2017-04-21 11:42:03 +0000     2478 bytes  web/transitions/ordinal-transition.js</tspan>
-<tspan x="10" y="5354">331.  2017-04-21 11:42:03 +0000     2703 bytes  web/transitions/pie-external-label-transitions.h\</tspan>
+<tspan x="10" y="3418">210.  2017-04-21 11:43:27 +0000     2597 bytes  web/2.0/transitions/pie-transitions.html</tspan>
+<tspan x="10" y="3434">211.  2017-04-21 11:43:27 +0000     3262 bytes  web/2.0/transitions/stacked-bar-transitions.html</tspan>
+<tspan x="10" y="3450">212.  2017-04-21 11:43:27 +0000     3955 bytes  web/2.0/transitions/transition-test.js</tspan>
+<tspan x="10" y="3466">213.  2017-04-21 11:43:27 +0000     9637 bytes  web/2.0/vc/index.html</tspan>
+<tspan x="10" y="3482">214.  2017-04-21 11:43:27 +0000     1640 bytes  web/2.0/vc/state2code.rb</tspan>
+<tspan x="10" y="3498">215.  2017-04-21 11:43:27 +0000   299942 bytes  web/2.0/vc/vc.csv</tspan>
+<tspan x="10" y="3514">216.  2017-04-21 11:43:27 +0000      650 bytes  web/2.0/zoom/index.html</tspan>
+<tspan x="10" y="3530">217.  2017-04-21 11:43:27 +0000     6905 bytes  web/2.0/zoom/restrict-panning.html</tspan>
+<tspan x="10" y="3546">218.  2017-04-21 11:43:27 +0000   104347 bytes  web/crime/canada_map.svg</tspan>
+<tspan x="10" y="3562">219.  2017-04-21 11:43:27 +0000    87521 bytes  web/crime/crime.csv</tspan>
+<tspan x="10" y="3578">220.  2017-04-21 11:43:27 +0000     1894 bytes  web/crime/filter_stats.rb</tspan>
+<tspan x="10" y="3594">221.  2017-04-21 11:43:27 +0000   108569 bytes  web/crime/index.html</tspan>
+<tspan x="10" y="3610">222.  2017-04-21 11:43:27 +0000   118128 bytes  web/css/bootstrap.css</tspan>
+<tspan x="10" y="3626">223.  2017-04-21 11:43:27 +0000    98165 bytes  web/css/bootstrap.min.css</tspan>
+<tspan x="10" y="3642">224.  2017-04-21 11:43:27 +0000    46743 bytes  web/css/colorbrewer.css</tspan>
+<tspan x="10" y="3658">225.  2017-04-21 11:43:27 +0000     4109 bytes  web/css/dc.css</tspan>
+<tspan x="10" y="3674">226.  2017-04-21 11:43:27 +0000     3282 bytes  web/css/dc.min.css</tspan>
+<tspan x="10" y="3690">227.  2017-04-21 11:43:27 +0000     4907 bytes  web/dc.logo.png</tspan>
+<tspan x="10" y="3706">228.  2017-04-21 11:43:27 +0000     4698 bytes  web/dc.logo.svg</tspan>
+<tspan x="10" y="3722">229.  2017-04-21 11:43:27 +0000    47712 bytes  web/docs/api-1.5.0.md</tspan>
+<tspan x="10" y="3738">230.  2017-04-21 11:43:27 +0000    50626 bytes  web/docs/api-1.6.0.md</tspan>
+<tspan x="10" y="3754">231.  2017-04-21 11:43:27 +0000    50770 bytes  web/docs/api-1.7.0.md</tspan>
+<tspan x="10" y="3770">232.  2017-04-21 11:43:27 +0000   251896 bytes  web/docs/api-2.0.0.md</tspan>
+<tspan x="10" y="3786">233.  2017-04-21 11:43:27 +0000   251896 bytes  web/docs/api-latest.md</tspan>
+<tspan x="10" y="3802">234.  2017-04-21 11:43:27 +0000     9790 bytes  web/docs/docco.css</tspan>
+<tspan x="10" y="3818">235.  2017-04-21 11:43:27 +0000   104319 bytes  web/docs/stock.html</tspan>
+<tspan x="10" y="3834">236.  2017-04-21 11:43:27 +0000       43 bytes  web/ep/blank.gif</tspan>
+<tspan x="10" y="3850">237.  2017-04-21 11:43:27 +0000     6647 bytes  web/ep/index.html</tspan>
+<tspan x="10" y="3866">238.  2017-04-21 11:43:27 +0000     2542 bytes  web/ep/list.js</tspan>
+<tspan x="10" y="3882">239.  2017-04-21 11:43:27 +0000    55687 bytes  web/ep/mep.csv</tspan>
+<tspan x="10" y="3898">240.  2017-04-21 11:43:27 +0000     4121 bytes  web/examples/adjustable-threshold.html</tspan>
+<tspan x="10" y="3914">241.  2017-04-21 11:43:27 +0000     8651 bytes  web/examples/align-axes.html</tspan>
+<tspan x="10" y="3930">242.  2017-04-21 11:43:27 +0000     2097 bytes  web/examples/area.html</tspan>
+<tspan x="10" y="3946">243.  2017-04-21 11:43:27 +0000     2811 bytes  web/examples/bar-extra-line.html</tspan>
+<tspan x="10" y="3962">244.  2017-04-21 11:43:27 +0000     1754 bytes  web/examples/bar-single-select.html</tspan>
+<tspan x="10" y="3978">245.  2017-04-21 11:43:27 +0000     1391 bytes  web/examples/bar.html</tspan>
+<tspan x="10" y="3994">246.  2017-04-21 11:43:27 +0000     2322 bytes  web/examples/box-plot-time.html</tspan>
+<tspan x="10" y="4010">247.  2017-04-21 11:43:27 +0000     1891 bytes  web/examples/box-plot.html</tspan>
+<tspan x="10" y="4026">248.  2017-04-21 11:43:27 +0000     5657 bytes  web/examples/complex-reduce.html</tspan>
+<tspan x="10" y="4042">249.  2017-04-21 11:43:27 +0000     1950 bytes  web/examples/composite.html</tspan>
+<tspan x="10" y="4058">250.  2017-04-21 11:43:27 +0000     5025 bytes  web/examples/download-table.html</tspan>
+<tspan x="10" y="4074">251.  2017-04-21 11:43:27 +0000     3124 bytes  web/examples/filtering-removing.html</tspan>
+<tspan x="10" y="4090">252.  2017-04-21 11:43:27 +0000     3859 bytes  web/examples/filtering.html</tspan>
+<tspan x="10" y="4106">253.  2017-04-21 11:43:27 +0000      289 bytes  web/examples/fruits.json</tspan>
+<tspan x="10" y="4122">254.  2017-04-21 11:43:27 +0000      821 bytes  web/examples/header.js</tspan>
+<tspan x="10" y="4138">255.  2017-04-21 11:43:27 +0000     1638 bytes  web/examples/heat.html</tspan>
+<tspan x="10" y="4154">256.  2017-04-21 11:43:27 +0000     5043 bytes  web/examples/heatmap-filtering.html</tspan>
+<tspan x="10" y="4170">257.  2017-04-21 11:43:27 +0000     2761 bytes  web/examples/index.html</tspan>
+<tspan x="10" y="4186">258.  2017-04-21 11:43:27 +0000      717 bytes  web/examples/intervals.csv</tspan>
+<tspan x="10" y="4202">259.  2017-04-21 11:43:27 +0000     3716 bytes  web/examples/iris.csv</tspan>
+<tspan x="10" y="4218">260.  2017-04-21 11:43:27 +0000     1342 bytes  web/examples/line.html</tspan>
+<tspan x="10" y="4234">261.  2017-04-21 11:43:27 +0000    11310 bytes  web/examples/lysenko-interval-tree.js</tspan>
+<tspan x="10" y="4250">262.  2017-04-21 11:43:27 +0000   347214 bytes  web/examples/monthly-move.csv</tspan>
+<tspan x="10" y="4266">263.  2017-04-21 11:43:27 +0000      874 bytes  web/examples/morley.csv</tspan>
+<tspan x="10" y="4282">264.  2017-04-21 11:43:27 +0000      703 bytes  web/examples/morley2.csv</tspan>
+<tspan x="10" y="4298">265.  2017-04-21 11:43:27 +0000     1047 bytes  web/examples/morley3.csv</tspan>
+<tspan x="10" y="4314">266.  2017-04-21 11:43:27 +0000     3831 bytes  web/examples/multi-focus.html</tspan>
+<tspan x="10" y="4330">267.  2017-04-21 11:43:27 +0000     1970 bytes  web/examples/multi-scatter.html</tspan>
+<tspan x="10" y="4346">268.  2017-04-21 11:43:27 +0000     2775 bytes  web/examples/number.html</tspan>
+<tspan x="10" y="4362">269.  2017-04-21 11:43:27 +0000     1359 bytes  web/examples/ordinal-bar.html</tspan>
+<tspan x="10" y="4378">270.  2017-04-21 11:43:27 +0000     1303 bytes  web/examples/ordinal-line.html</tspan>
+<tspan x="10" y="4394">271.  2017-04-21 11:43:27 +0000     1828 bytes  web/examples/pie-external-labels.html</tspan>
+<tspan x="10" y="4410">272.  2017-04-21 11:43:27 +0000     1454 bytes  web/examples/pie.html</tspan>
+<tspan x="10" y="4426">273.  2017-04-21 11:43:27 +0000     3820 bytes  web/examples/range-series.html</tspan>
+<tspan x="10" y="4442">274.  2017-04-21 11:43:27 +0000     3649 bytes  web/examples/replacing-data.html</tspan>
+<tspan x="10" y="4458">275.  2017-04-21 11:43:27 +0000     3918 bytes  web/examples/right-axis.html</tspan>
+<tspan x="10" y="4474">276.  2017-04-21 11:43:27 +0000     1192 bytes  web/examples/row.html</tspan>
+<tspan x="10" y="4490">277.  2017-04-21 11:43:27 +0000     1793 bytes  web/examples/scatter-brushing.html</tspan>
+<tspan x="10" y="4506">278.  2017-04-21 11:43:27 +0000     1993 bytes  web/examples/scatter-series.html</tspan>
+<tspan x="10" y="4522">279.  2017-04-21 11:43:27 +0000     1280 bytes  web/examples/scatter.html</tspan>
+<tspan x="10" y="4538">280.  2017-04-21 11:43:27 +0000     2200 bytes  web/examples/series.html</tspan>
+<tspan x="10" y="4554">281.  2017-04-21 11:43:27 +0000     2472 bytes  web/examples/sparkline.html</tspan>
+<tspan x="10" y="4570">282.  2017-04-21 11:43:27 +0000     7803 bytes  web/examples/splom.html</tspan>
+<tspan x="10" y="4586">283.  2017-04-21 11:43:27 +0000     2429 bytes  web/examples/stacked-bar.html</tspan>
+<tspan x="10" y="4602">284.  2017-04-21 11:43:27 +0000     6624 bytes  web/examples/switching-time-intervals.html</tspan>
+<tspan x="10" y="4618">285.  2017-04-21 11:43:27 +0000     2591 bytes  web/examples/table-on-aggregated-data.html</tspan>
+<tspan x="10" y="4634">286.  2017-04-21 11:43:27 +0000     2250 bytes  web/examples/table-pagination.html</tspan>
+<tspan x="10" y="4650">287.  2017-04-21 11:43:27 +0000     5046 bytes  web/examples/time-intervals.html</tspan>
+<tspan x="10" y="4666">288.  2017-04-21 11:43:27 +0000     4572 bytes  web/geo/us-counties.json</tspan>
+<tspan x="10" y="4682">289.  2017-04-21 11:43:27 +0000    87734 bytes  web/geo/us-states.json</tspan>
+<tspan x="10" y="4698">290.  2017-04-21 11:43:27 +0000     1451 bytes  web/highlighter/shAutoloader.js</tspan>
+<tspan x="10" y="4714">291.  2017-04-21 11:43:27 +0000     1649 bytes  web/highlighter/shBrushJScript.js</tspan>
+<tspan x="10" y="4730">292.  2017-04-21 11:43:27 +0000     1998 bytes  web/highlighter/shBrushXml.js</tspan>
+<tspan x="10" y="4746">293.  2017-04-21 11:43:27 +0000     6204 bytes  web/highlighter/shCore.css</tspan>
+<tspan x="10" y="4762">294.  2017-04-21 11:43:27 +0000    16175 bytes  web/highlighter/shCore.js</tspan>
+<tspan x="10" y="4778">295.  2017-04-21 11:43:27 +0000     2877 bytes  web/highlighter/shThemeDefault.css</tspan>
+<tspan x="10" y="4794">296.  2017-04-21 11:43:27 +0000    19152 bytes  web/img/class-hierarchy.svg</tspan>
+<tspan x="10" y="4810">297.  2017-04-21 11:43:27 +0000     8777 bytes  web/img/glyphicons-halflings-white.png</tspan>
+<tspan x="10" y="4826">298.  2017-04-21 11:43:27 +0000    12799 bytes  web/img/glyphicons-halflings.png</tspan>
+<tspan x="10" y="4842">299.  2017-04-21 11:43:27 +0000     8031 bytes  web/index.html</tspan>
+<tspan x="10" y="4858">300.  2017-04-21 11:43:27 +0000     5965 bytes  web/js/FileSaver.js</tspan>
+<tspan x="10" y="4874">301.  2017-04-21 11:43:27 +0000    18274 bytes  web/js/colorbrewer.js</tspan>
+<tspan x="10" y="4890">302.  2017-04-21 11:43:27 +0000    44384 bytes  web/js/crossfilter.js</tspan>
+<tspan x="10" y="4906">303.  2017-04-21 11:43:27 +0000   337945 bytes  web/js/d3.js</tspan>
+<tspan x="10" y="4922">304.  2017-04-21 11:43:27 +0000   362282 bytes  web/js/dc.js</tspan>
+<tspan x="10" y="4938">305.  2017-04-21 11:43:27 +0000   984728 bytes  web/js/dc.js.map</tspan>
+<tspan x="10" y="4954">306.  2017-04-21 11:43:27 +0000    85812 bytes  web/js/dc.min.js</tspan>
+<tspan x="10" y="4970">307.  2017-04-21 11:43:27 +0000   120103 bytes  web/js/dc.min.js.map</tspan>
+<tspan x="10" y="4986">308.  2017-04-21 11:43:27 +0000  6348996 bytes  web/js/env-data.js</tspan>
+<tspan x="10" y="5002">309.  2017-04-21 11:43:27 +0000    12355 bytes  web/js/jasmine-jsreporter.js</tspan>
+<tspan x="10" y="5018">310.  2017-04-21 11:43:27 +0000     2809 bytes  web/js/queue.js</tspan>
+<tspan x="10" y="5034">311.  2017-04-21 11:43:27 +0000   347229 bytes  web/ndx.csv</tspan>
+<tspan x="10" y="5050">312.  2017-04-21 11:43:27 +0000   124229 bytes  web/play-ground.html</tspan>
+<tspan x="10" y="5066">313.  2017-04-21 11:43:27 +0000      990 bytes  web/resizing/index.html</tspan>
+<tspan x="10" y="5082">314.  2017-04-21 11:43:27 +0000     1502 bytes  web/resizing/resizing-bar.html</tspan>
+<tspan x="10" y="5098">315.  2017-04-21 11:43:27 +0000     5674 bytes  web/resizing/resizing-heatmap.html</tspan>
+<tspan x="10" y="5114">316.  2017-04-21 11:43:27 +0000     1203 bytes  web/resizing/resizing-pie.html</tspan>
+<tspan x="10" y="5130">317.  2017-04-21 11:43:27 +0000     4139 bytes  web/resizing/resizing-right-axis.html</tspan>
+<tspan x="10" y="5146">318.  2017-04-21 11:43:27 +0000     1230 bytes  web/resizing/resizing-row.html</tspan>
+<tspan x="10" y="5162">319.  2017-04-21 11:43:27 +0000     2828 bytes  web/resizing/resizing-series.html</tspan>
+<tspan x="10" y="5178">320.  2017-04-21 11:43:27 +0000    29863 bytes  web/stock.js</tspan>
+<tspan x="10" y="5194">321.  2017-04-21 11:43:27 +0000     2495 bytes  web/transitions/area-progression.html</tspan>
+<tspan x="10" y="5210">322.  2017-04-21 11:43:27 +0000     3440 bytes  web/transitions/area-transitions.html</tspan>
+<tspan x="10" y="5226">323.  2017-04-21 11:43:27 +0000     2312 bytes  web/transitions/bar-progression.html</tspan>
+<tspan x="10" y="5242">324.  2017-04-21 11:43:27 +0000     2513 bytes  web/transitions/bar-transitions.html</tspan>
+<tspan x="10" y="5258">325.  2017-04-21 11:43:27 +0000     1417 bytes  web/transitions/index.html</tspan>
+<tspan x="10" y="5274">326.  2017-04-21 11:43:27 +0000     4703 bytes  web/transitions/number-transitions.html</tspan>
+<tspan x="10" y="5290">327.  2017-04-21 11:43:27 +0000     1784 bytes  web/transitions/ordinal-bar-transitions.html</tspan>
+<tspan x="10" y="5306">328.  2017-04-21 11:43:27 +0000     1720 bytes  web/transitions/ordinal-line-transitions.html</tspan>
+<tspan x="10" y="5322">329.  2017-04-21 11:43:27 +0000     1473 bytes  web/transitions/ordinal-row-transitions.html</tspan>
+<tspan x="10" y="5338">330.  2017-04-21 11:43:27 +0000     2478 bytes  web/transitions/ordinal-transition.js</tspan>
+<tspan x="10" y="5354">331.  2017-04-21 11:43:27 +0000     2703 bytes  web/transitions/pie-external-label-transitions.h\</tspan>
 <tspan x="10" y="5370">tml</tspan>
-<tspan x="10" y="5386">332.  2017-04-21 11:42:03 +0000     2597 bytes  web/transitions/pie-transitions.html</tspan>
-<tspan x="10" y="5402">333.  2017-04-21 11:42:03 +0000     3262 bytes  web/transitions/stacked-bar-transitions.html</tspan>
-<tspan x="10" y="5418">334.  2017-04-21 11:42:03 +0000     3955 bytes  web/transitions/transition-test.js</tspan>
-<tspan x="10" y="5434">335.  2017-04-21 11:42:03 +0000     9637 bytes  web/vc/index.html</tspan>
-<tspan x="10" y="5450">336.  2017-04-21 11:42:03 +0000     1640 bytes  web/vc/state2code.rb</tspan>
-<tspan x="10" y="5466">337.  2017-04-21 11:42:03 +0000   299942 bytes  web/vc/vc.csv</tspan>
-<tspan x="10" y="5482">338.  2017-04-21 11:42:03 +0000      650 bytes  web/zoom/index.html</tspan>
-<tspan x="10" y="5498">339.  2017-04-21 11:42:03 +0000     6905 bytes  web/zoom/restrict-panning.html</tspan>
-<tspan x="10" y="5514">340.  2017-04-21 11:42:03 +0000    19217 bytes  welcome.md</tspan>
+<tspan x="10" y="5386">332.  2017-04-21 11:43:27 +0000     2597 bytes  web/transitions/pie-transitions.html</tspan>
+<tspan x="10" y="5402">333.  2017-04-21 11:43:27 +0000     3262 bytes  web/transitions/stacked-bar-transitions.html</tspan>
+<tspan x="10" y="5418">334.  2017-04-21 11:43:27 +0000     3955 bytes  web/transitions/transition-test.js</tspan>
+<tspan x="10" y="5434">335.  2017-04-21 11:43:27 +0000     9637 bytes  web/vc/index.html</tspan>
+<tspan x="10" y="5450">336.  2017-04-21 11:43:27 +0000     1640 bytes  web/vc/state2code.rb</tspan>
+<tspan x="10" y="5466">337.  2017-04-21 11:43:27 +0000   299942 bytes  web/vc/vc.csv</tspan>
+<tspan x="10" y="5482">338.  2017-04-21 11:43:27 +0000      650 bytes  web/zoom/index.html</tspan>
+<tspan x="10" y="5498">339.  2017-04-21 11:43:27 +0000     6905 bytes  web/zoom/restrict-panning.html</tspan>
+<tspan x="10" y="5514">340.  2017-04-21 11:43:27 +0000    19217 bytes  welcome.md</tspan>
 </text>
 </svg>
